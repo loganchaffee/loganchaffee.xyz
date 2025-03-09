@@ -46,5 +46,9 @@ li {
 }
 
 a {
-  color: black;
+  color: white;
+}
+
+a:hover {
+  color: dodgerblue;
 }
